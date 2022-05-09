@@ -133,7 +133,7 @@ const Keyboard = {
 
     footerCreate() {
         let teg = document.createElement('p');
-        teg.innerHTML = 'Клавиатура создана в операционной системе Windows. Для переключения языка комбинация: правый Atl + правый Ctrl';
+        teg.innerHTML = 'Клавиатура создана в операционной системе Windows. Для переключения языка комбинация: левый Atl + левый Ctrl';
         return teg;
     },
 
